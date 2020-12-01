@@ -13,9 +13,12 @@
 -The value of each card is from 1-13
 
 -Player wins if:
+	 
 	 -he has a pure run while the computer doesn't
-	 if both have a pure run then the one with an impure run wins
-	 if the situation up-till now is the same for both player and computer, the one with lesser points win
+	 
+	 -if both have a pure run then the one with an impure run wins
+	 
+	 -if the situation up-till now is the same for both player and computer, the one with lesser points win
 
 Else the game results in a draw
 
