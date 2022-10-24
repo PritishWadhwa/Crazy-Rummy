@@ -193,6 +193,8 @@ class deck_4(deck):
             deck_4.deck_4_list.append(i)
 
 
+# Total number of cards are 52 
+
 def shuffle_cards():
     """This function will shuffle the cards"""
     r = []
